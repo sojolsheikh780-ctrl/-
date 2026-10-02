@@ -1,0 +1,6 @@
+python-telegram-bot>=20.7,<22
+openai>=1.40
+fastapi>=0.110
+uvicorn>=0.29
+itsdangerous>=2.1
+python-multipart>=0.0.9
